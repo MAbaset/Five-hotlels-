@@ -2,6 +2,7 @@
 Hotel Reservation System README
 
 Project Name : Five Hotel
+
 Project Overview:
 
 This project is a Hotel Reservation System aimed at facilitating the process of hotel room booking for users and enabling them to browse and rate various hotels. The system provides a user-friendly interface for both customers and administrators, offering features such as hotel search, room reservation, hotel listing, rating, and an admin panel for managing hotels, room availability, and user bookings.
